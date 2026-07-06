@@ -1,23 +1,66 @@
 <h1 align="center">Hi 👋, I'm Muhammed Abdülbaki Çeken</h1>
 
-<h3 align="center">
-Computer Engineer | Full Stack Developer | SEO Specialist
-</h3>
+<h3 align="center">Computer Engineer | Full Stack Developer | SEO Specialist</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Computer+Engineer;Full+Stack+Developer;WordPress+%26+WooCommerce+Developer;Java+Spring+Boot+Developer;Python+%7C+Flask+Developer;SEO+%26+Google+Ads+Specialist;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=800&lines=Computer+Engineer;Full+Stack+Developer;Java+Spring+Boot;Python+Flask;WordPress+Developer;SEO+%26+Google+Ads;Always+Learning+New+Technologies"/>
 </p>
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mami4514&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mami4514&layout=compact&theme=tokyonight&hide_border=true"/>
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering Graduate
+- 💻 Full Stack Web Developer
+- 🌐 WordPress & WooCommerce Developer
+- 🚚 SEO & Google Ads Specialist
+- ☕ Java Spring Boot Developer
+- 🐍 Python & Flask Developer
+- 🤖 AI & Automation Enthusiast
+- 📍 Manisa, Türkiye
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,php,java,spring,python,flask,cs,dotnet,mysql,mongodb,firebase,git,github,docker,vscode,figma,postman" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mami4514&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mami4514&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mami4514&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mami4514&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+<img src="https://streak-stats.demolab.com?user=mami4514&theme=tokyonight"/>
+
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mami4514&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:aliseven1345@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/mami4514">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
