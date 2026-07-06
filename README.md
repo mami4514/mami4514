@@ -57,13 +57,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mami4514/mami4514/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
