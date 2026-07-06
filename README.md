@@ -3,57 +3,55 @@
 <h3 align="center">Computer Engineer | Full Stack Developer | SEO Specialist</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=800&lines=Computer+Engineer;Full+Stack+Developer;Java+Spring+Boot;Python+Flask;WordPress+Developer;SEO+%26+Google+Ads;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Computer+Engineer;Full+Stack+Developer;Java+Spring+Boot+Developer;Python+%7C+Flask+Developer;WordPress+%26+WooCommerce;SEO+%26+Google+Ads+Specialist;Always+Learning+New+Technologies+🚀"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Graduate
 - 💻 Full Stack Web Developer
 - 🌐 WordPress & WooCommerce Developer
-- 🚚 SEO & Google Ads Specialist
 - ☕ Java Spring Boot Developer
 - 🐍 Python & Flask Developer
-- 🤖 AI & Automation Enthusiast
+- 📈 SEO & Google Ads Specialist
+- 🤖 Interested in Artificial Intelligence & Automation
 - 📍 Manisa, Türkiye
 
 ---
 
-## 🛠 Languages and Tools
+## 🚀 Languages & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,php,java,spring,python,flask,cs,dotnet,mysql,mongodb,firebase,git,github,docker,vscode,figma,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,php,java,spring,python,flask,cs,dotnet,mysql,mongodb,firebase,git,github,docker,vscode,figma,postman&perline=8"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Skills
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mami4514&show_icons=true&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Full%20Stack-00C4FF?style=for-the-badge"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mami4514&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📫 Connect With Me
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mami4514&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
 
 <a href="mailto:aliseven1345@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -64,3 +62,13 @@
 </a>
 
 </p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mami4514&label=Profile%20Views&color=00C4FF&style=flat"/>
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
